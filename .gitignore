@@ -3,3 +3,6 @@
 data/
 log/
 pretrain_model/
+saved_models/*.pth
+checkpoints/*.pth
+inputs/ilya2s.jpg
